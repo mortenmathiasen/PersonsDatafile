@@ -76,7 +76,6 @@ namespace ConsoleApp_Files_and_Strings
                 Console.WriteLine(p);
             }
             Console.WriteLine("Number of people in data file : " + people.Count);
-
             Console.ReadKey();
         }
     }
